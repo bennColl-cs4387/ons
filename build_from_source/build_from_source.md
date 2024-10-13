@@ -46,5 +46,3 @@ cargo build --release --locked
 
 `~/yazi/target/release$ ./yazi`
 You can add this to your environment variable to call yazi from anywhere
-![[Pasted image 20241012183955.png]]
-![[Pasted image 20241012183851.png]]
