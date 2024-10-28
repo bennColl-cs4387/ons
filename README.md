@@ -10,3 +10,4 @@ This is Ons' repository for the CS4387 class
 
 [Build from Source](https://github.com/bennColl-cs4387/ons/blob/main/build_from_source/build_from_source.md)
 
+[RustworkX Groupfix](https://github.com/bennColl-cs4387/ons/blob/main/group_rustworkx_fix/see_repo.md)
