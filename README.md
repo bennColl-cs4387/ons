@@ -2,12 +2,14 @@
 This is Ons' repository for the CS4387 class
 
 ## Contents:
-[Syllabus](https://github.com/bennColl-cs4387/ons/blob/main/syllabus/syllabus_in_md.md)
+[Syllabus](https://github.com/bennColl-cs4387/ons/blob/main/homework/week%201/syllabus/syllabus_in_md.md)
 
-[Weekly Grid](https://github.com/bennColl-cs4387/ons/blob/main/syllabus/weekly_grid_in_md.md)
+[Weekly Grid](https://github.com/bennColl-cs4387/ons/blob/main/homework/week%201/syllabus/weekly_grid_in_md.md)
 
-[Murder Mystery](https://github.com/bennColl-cs4387/ons/blob/main/gmm/murder%20mystery.md)
+[Murder Mystery](https://github.com/bennColl-cs4387/ons/blob/main/homework/week%202/gmm/murder%20mystery.md)
 
-[Build from Source](https://github.com/bennColl-cs4387/ons/blob/main/build_from_source/build_from_source.md)
+[Build from Source](https://github.com/bennColl-cs4387/ons/blob/main/homework/week%204/build_from_source/build_from_source.md)
 
-[RustworkX Groupfix](https://github.com/bennColl-cs4387/ons/blob/main/group_rustworkx_fix/see_repo.md)
+[First Solo Fix](https://github.com/bennColl-cs4387/ons/blob/main/Assignments/solo_fixes/first_fix_ons.md)
+
+[RustworkX Groupfix](https://github.com/bennColl-cs4387/ons/blob/main/Assignments/group_fix/group_rustworkx_fix/see_repo.md)
