@@ -1,5 +1,7 @@
 # RustScan Port Scan Interval Feature Implementation
 
+# See Pull Request [here](https://github.com/RustScan/RustScan/pull/713)
+
 This implementation adds a new feature to RustScan that allows users to specify a time interval between port scans, helping to control scan timing and potentially reduce network load. 
 
 
