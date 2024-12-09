@@ -14,7 +14,7 @@ This is Ons' repository for the CS4387 class
 
 [RustworkX Groupfix](https://github.com/bennColl-cs4387/ons/blob/main/Assignments/group_fix/group_rustworkx_fix/see_repo.md)
 
-[First Solo Fix Final](https://github.com/RustScan/RustScan/pull/713)
+[First Solo Fix Final](https://github.com/bennColl-cs4387/ons/blob/main/Assignments/solo_fixes/first_fix_final.md)
 
 [Second Solo Fix - Cross-Site Scripting Patch in LGSL](https://github.com/tltneon/lgsl/security/advisories/GHSA-xx95-62h6-h7v3)
 
