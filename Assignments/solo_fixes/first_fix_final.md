@@ -15,10 +15,11 @@ pub interval: u64,
 ```
 
 ### 2. Scanner Struct & Constructuor Modification
-```rustCopypub struct Scanner {
+```rust
+Copypub struct Scanner {
     interval: Duration,
 }
-rustCopyimpl Scanner {
+Copyimpl Scanner {
     fn new(
         interval: Duration,
     ) -> Self {
@@ -37,7 +38,8 @@ For each port:
 - Waits for all IPs to complete
 - Applies the interval delay before moving to the next port
 
-```rustCopy// Scan one port at a time
+```rust
+// Scan one port at a time
 for port in ports {
     let mut ftrs = FuturesUnordered::new();
     
